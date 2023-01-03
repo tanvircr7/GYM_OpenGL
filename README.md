@@ -7,10 +7,10 @@ to add more flavour I suppose.
 
 p -> to move the front wall blocking your view
 
-r, t => pitch
-y, u => Yaw
-i, o => roll
-c, z => scaling
+r, t - pitch
+y, u - Yaw
+i, o - roll
+c, z - scaling
 
 move eye point
 w s a d
@@ -29,8 +29,6 @@ j n b m
 3. Weights room 
 ![image](https://user-images.githubusercontent.com/34983412/210337725-addc9fe7-eb5e-4d61-a1bd-40ca727229ec.png)
 
-
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -41,34 +39,6 @@ You will need to have the following software installed on your system to run thi
 
 - A C++ compiler
 - OpenGL libraries
-
-### Installing
-
-To install and run this project, follow these steps:
-
-1. Clone the repository to your local machine:
-
-git clone https://github.com/YOUR_USERNAME/gym-scene.git
-
-Copy code
-
-2. Navigate to the project directory:
-
-cd gym-scene
-
-Copy code
-
-3. Compile the project using your C++ compiler:
-
-g++ main.cpp -o gym-scene -lGL -lGLU -lglut
-
-Copy code
-
-4. Run the executable file:
-
-./gym-scene
-
-Copy code
 
 ## Contributing
 
