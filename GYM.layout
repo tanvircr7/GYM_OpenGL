@@ -2,59 +2,77 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="main.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+	<File name="main.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="39820" topLine="701" />
+			<Cursor1 position="80764" topLine="540" />
 		</Cursor>
 		<Folding>
-			<Collapse line="36" />
-			<Collapse line="48" />
-			<Collapse line="83" />
-			<Collapse line="95" />
-			<Collapse line="153" />
-			<Collapse line="191" />
-			<Collapse line="221" />
-			<Collapse line="250" />
-			<Collapse line="280" />
-			<Collapse line="311" />
-			<Collapse line="328" />
-			<Collapse line="334" />
-			<Collapse line="435" />
-			<Collapse line="484" />
-			<Collapse line="519" />
-			<Collapse line="559" />
-			<Collapse line="589" />
-			<Collapse line="619" />
-			<Collapse line="680" />
-			<Collapse line="761" />
-			<Collapse line="777" />
-			<Collapse line="790" />
-			<Collapse line="795" />
-			<Collapse line="832" />
-			<Collapse line="896" />
-			<Collapse line="912" />
-			<Collapse line="945" />
-			<Collapse line="1002" />
-			<Collapse line="1193" />
-			<Collapse line="1208" />
-			<Collapse line="1228" />
-			<Collapse line="1248" />
-			<Collapse line="1263" />
-			<Collapse line="1278" />
-			<Collapse line="1292" />
-			<Collapse line="1336" />
-			<Collapse line="1349" />
-			<Collapse line="1366" />
-			<Collapse line="1387" />
-			<Collapse line="1409" />
-			<Collapse line="1598" />
-			<Collapse line="1644" />
-			<Collapse line="1661" />
-			<Collapse line="1815" />
-			<Collapse line="1858" />
-			<Collapse line="1868" />
-			<Collapse line="1883" />
-			<Collapse line="2135" />
+			<Collapse line="52" />
+			<Collapse line="78" />
+			<Collapse line="101" />
+			<Collapse line="126" />
+			<Collapse line="138" />
+			<Collapse line="150" />
+			<Collapse line="234" />
+			<Collapse line="275" />
+			<Collapse line="313" />
+			<Collapse line="335" />
+			<Collapse line="366" />
+			<Collapse line="398" />
+			<Collapse line="442" />
+			<Collapse line="474" />
+			<Collapse line="506" />
+			<Collapse line="536" />
+			<Collapse line="571" />
+			<Collapse line="588" />
+			<Collapse line="594" />
+			<Collapse line="607" />
+			<Collapse line="625" />
+			<Collapse line="649" />
+			<Collapse line="695" />
+			<Collapse line="744" />
+			<Collapse line="779" />
+			<Collapse line="819" />
+			<Collapse line="849" />
+			<Collapse line="879" />
+			<Collapse line="940" />
+			<Collapse line="1021" />
+			<Collapse line="1037" />
+			<Collapse line="1050" />
+			<Collapse line="1055" />
+			<Collapse line="1092" />
+			<Collapse line="1124" />
+			<Collapse line="1161" />
+			<Collapse line="1176" />
+			<Collapse line="1192" />
+			<Collapse line="1218" />
+			<Collapse line="1243" />
+			<Collapse line="1261" />
+			<Collapse line="1283" />
+			<Collapse line="1308" />
+			<Collapse line="1322" />
+			<Collapse line="1354" />
+			<Collapse line="1448" />
+			<Collapse line="1458" />
+			<Collapse line="1500" />
+			<Collapse line="1517" />
+			<Collapse line="1535" />
+			<Collapse line="1622" />
+			<Collapse line="1706" />
+			<Collapse line="1718" />
+			<Collapse line="1745" />
+			<Collapse line="1758" />
+			<Collapse line="1774" />
+			<Collapse line="1800" />
+			<Collapse line="1827" />
+			<Collapse line="1859" />
+			<Collapse line="1898" />
+			<Collapse line="1913" />
+			<Collapse line="1931" />
+			<Collapse line="1945" />
+			<Collapse line="1994" />
+			<Collapse line="2114" />
+			<Collapse line="3819" />
 		</Folding>
 	</File>
 	<File name="BmpLoader.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
