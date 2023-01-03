@@ -50,9 +50,6 @@ If you would like to contribute to this project, please follow these guidelines:
 4. Push to your branch.
 5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
