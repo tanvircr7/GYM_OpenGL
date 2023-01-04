@@ -4011,39 +4011,39 @@ int main (int argc, char **argv)
 
 
 
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\test.bmp"); //1
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\floor.bmp"); //2
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\wood.bmp"); //3
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\tiles.bmp"); //4
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\table.bmp"); //5
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\ground.bmp"); //6
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\darkwood.bmp"); //7
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\box.bmp"); //8
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\NIKE.bmp"); //9
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\funkyred.bmp"); //10
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\ali.bmp"); //11
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\adidas.bmp"); //12
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\redbull.bmp"); //13
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\ron.bmp"); //14
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\black.bmp"); //15
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\barbwire.bmp"); //16
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\barbwire2.bmp"); //17
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\road1.bmp"); //18
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\arny.bmp"); //19
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\khabib.bmp"); //20
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\may.bmp"); //21
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\raku.bmp"); //22
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\toilet.bmp"); //23
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\toiletdoor.bmp"); //24
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\blackleather.bmp"); //25
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\paleskin.bmp"); //26
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\head.bmp"); //27
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\barbellW.bmp"); //28
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\dumbellBlue.bmp"); //29
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\tiles5.bmp"); //30
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\bricks.bmp"); //31
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\rocky.bmp"); //32
-    LoadTexture1("C:\\Users\\ASUS\\Downloads\\grass.bmp"); //33
+    LoadTexture1("Textures\\test.bmp"); //1
+    LoadTexture1("Textures\\floor.bmp"); //2
+    LoadTexture1("Textures\\wood.bmp"); //3
+    LoadTexture1("Textures\\tiles.bmp"); //4
+    LoadTexture1("Textures\\table.bmp"); //5
+    LoadTexture1("Textures\\ground.bmp"); //6
+    LoadTexture1("Textures\\darkwood.bmp"); //7
+    LoadTexture1("Textures\\box.bmp"); //8
+    LoadTexture1("Textures\\NIKE.bmp"); //9
+    LoadTexture1("Textures\\funkyred.bmp"); //10
+    LoadTexture1("Textures\\ali.bmp"); //11
+    LoadTexture1("Textures\\adidas.bmp"); //12
+    LoadTexture1("Textures\\redbull.bmp"); //13
+    LoadTexture1("Textures\\ron.bmp"); //14
+    LoadTexture1("Textures\\black.bmp"); //15
+    LoadTexture1("Textures\\barbwire.bmp"); //16
+    LoadTexture1("Textures\\barbwire2.bmp"); //17
+    LoadTexture1("Textures\\road1.bmp"); //18
+    LoadTexture1("Textures\\arny.bmp"); //19
+    LoadTexture1("Textures\\khabib.bmp"); //20
+    LoadTexture1("Textures\\may.bmp"); //21
+    LoadTexture1("Textures\\raku.bmp"); //22
+    LoadTexture1("Textures\\toilet.bmp"); //23
+    LoadTexture1("Textures\\toiletdoor.bmp"); //24
+    LoadTexture1("Textures\\blackleather.bmp"); //25
+    LoadTexture1("Textures\\paleskin.bmp"); //26
+    LoadTexture1("Textures\\head.bmp"); //27
+    LoadTexture1("Textures\\barbellW.bmp"); //28
+    LoadTexture1("Textures\\dumbellBlue.bmp"); //29
+    LoadTexture1("Textures\\tiles5.bmp"); //30
+    LoadTexture1("Textures\\bricks.bmp"); //31
+    LoadTexture1("Textures\\rocky.bmp"); //32
+    LoadTexture1("Textures\\grass.bmp"); //33
 
 
 
